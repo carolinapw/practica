@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+article {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    height: 200px;
+    width: 200px;
+    justify-content: space-around;
+}
+.uno {
+    background-color: blueviolet;
+}
+.dos {
+    background-color: aqua;
+}
+.tres {
+    background-color: yellowgreen;
+}
